@@ -15,3 +15,15 @@
   </tr>
 </thead>
 </table>
+
+<h2> Pendientes </h2>
+
+<h2> Prototipos </h2>
+
+<h2> Metodología </h2>
+
+<h2> Resultados </h2>
+
+<h2> Equipo </h2>
+
+<h2> Agradecimientos </h2>
