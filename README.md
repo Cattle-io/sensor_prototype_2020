@@ -7,7 +7,7 @@
 <table>
 <thead>
   <tr>
-    <th style="width: 35%; text-align: left"><p style="width: 100%; text-align: left">Para comenzar, puedes revisar el contenido de la wiki. Ahí encontraras materiales, recursos, guias, tutoriales, toda la información recopilada de proyecto.
+    <th style="width: 35%; text-align: left"><p style="width: 100%; text-align: left" align="left">Para comenzar, puedes revisar el contenido de la wiki. Ahí encontraras materiales, recursos, guias, tutoriales, toda la información recopilada de proyecto.
 </p></th>
     <th>
 <img src="https://github.com/Cattle-io/sensor_prototype_2020/blob/master/wiki/images/how_to_wiki.png?raw=true" width="100%">
