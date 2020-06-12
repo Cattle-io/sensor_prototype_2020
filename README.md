@@ -18,15 +18,15 @@
   <tbody>
     <tr>
       <td>
-        <h4> ¿ Como manejamos las reuniones ? </h4>
+        <h4> Reuniones </h4>
         <p align="left" >
-          Con Issues
+           Las reuniones son Issues con el tag Meeting. Cada evento es un issue, en el estan los objetivos, actas de la reuión y comentarios para la proxima. 
         </p>
       </td>
       <td>
-      <h4> ¿ Como manejamos las tareas  ? </h4>
+      <h4> Treas, Metas y Proyectos </h4>
         <p align="left" >
-          Con Projects e Issues
+          GitHub tiene una herramienta llamada Projects. En el se pueden gestionar, metas, tareas (issues) como projects. En cada projects se puede gestionar el estado de los issues (tareas) en etapas.
         </p>
       </td>
     </tr>
