@@ -14,6 +14,24 @@
 </th>
   </tr>
 </thead>
+  
+  <tbody>
+    <tr>
+      <td>
+        <h4> ¿ Como manejamos las reuniones ? </h4>
+        <p align="left" >
+          Con Issues
+        </p>
+      </td>
+      <td>
+      <h4> ¿ Como manejamos las tareas  ? </h4>
+        <p align="left" >
+          Con Projects e Issues
+        </p>
+      </td>
+    </tr>
+  </tbody>
+  
 </table>
 
 <h2> Pendientes </h2>
